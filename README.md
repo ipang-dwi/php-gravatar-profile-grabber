@@ -9,6 +9,12 @@ Dapatkan profil Gravatar dengan memakai kode PHP ini. Beneran sangat berguna ket
 
 ==================================
 
+Demo :
+- https://lab.firstplato.com/gravatar
+- https://youtu.be/h5Pu53ATmFE
+
+==================================
+
 Feel free to reach me on :
 - https://www.firstplato.com
 - admin@firstplato.com
