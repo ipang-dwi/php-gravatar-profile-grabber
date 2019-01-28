@@ -1,4 +1,7 @@
 # php-gravatar-profile-grabber
+
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" />
+
 Grab Gravatar profile from email input
 
 Get your needed Gravatar profile using this PHP shortcode. It's really usefull when you develop a small system, needed user pics, but didn't have more space to save all your member pics. Just get your member pics and another profile data from his or her Gravatar.
